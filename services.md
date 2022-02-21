@@ -11,7 +11,7 @@
 | - On time service | 2 | \- Service is provided on time = 2.5 point<br> |
 |||- 10 to 15 min delay = 0.5 is deducted|
 |||- More the delay more points will be<br>deducted but there should be genuine<br>reason for the delay = 0.5 for every 10-15<br>min extra |
-|||- in some case even early delivery can<br>also be a problem|
+|||- in some case even early delivery can<br>also be a problem so can deduct 0.5 points|
 |||- service after many day delay customer<br>get annoyed means nothing = 0 points|
 | - provided in its best condition/way | 1.5 | - product/service that is provided is in<br>best condition (product in best cond. &<br>service in best way like the customer<br>wants without any problem= 2.5         |
 ||| - With each flaw/ problem 0.5 points is<br>deducted|
@@ -57,7 +57,7 @@
 | - On time service | 0.5| \- Service is provided on time = 2.5 point<br> |
 |||- 10 to 15 min delay = 0.5 is deducted|
 |||- More the delay more points will be<br>deducted but there should be genuine<br>reason for the delay = 0.5 for every 10-15<br>min extra |
-|||- in some case even early delivery can<br>also be a problem|
+|||- in some case even early delivery can<br>also be a problem so can deduct 0.5 points|
 |||- service after many day delay customer<br>get annoyed means nothing = 0 points|
 | - provided in its best condition/way | 1 | - product/service that is provided is in<br>best condition (product in best cond. &<br>service in best way like the customer<br>wants without any problem= 2.5         |
 ||| - With each flaw/ problem 0.5 points is<br>deducted|
