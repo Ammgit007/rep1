@@ -1,7 +1,7 @@
 # Good & bad service markdown
 
 | Attributes by service provider | Individual points | Test case           | Points out of 10 |
- |------------|:-------------: |:-------------:|:----------------:|
+ |------------|:-------------: |:-------------|:----------------:|
 |Good service|
 | Delivery/service to customer| out of 2.5 || 8 |
 | - Desired service is provided | 2.5 | - product/service is provided that is<br>desired by the customer without any<br>problem = 2.5 points|
@@ -28,7 +28,7 @@
 ||| - not understanding the language means<br>communication gap= 1 pt deducted  |
 |||- in hurry without any genuine reason = 1 pt<br>deducted |
 |||- not answering the cust. or late response<br>\= 1 pt deducted|
-| Address problem and take actions or<br>Customer support | out of 2.5 || 8|
+| Address problem and take actions or Customer support | out of 2.5 || 8|
 | - add. prob (on cust or their end)| 2 | - listen to the customer and address<br>the problem=2.5<br>|
 ||| - not listening properly means in hurry =<br>0.5 deducted |
 ||| - not communicating properly = 0.5<br>deducted |
