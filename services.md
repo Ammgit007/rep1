@@ -1,6 +1,6 @@
 # Good & bad service markdown
 
-| Attributes by service provider | Individual points | Test case           | Points out of 10 |
+| Attributes by service provider | Individual points | Test case | Points out of 10 |
  |------------|:-------------: |:-------------|:----------------:|
 |Good service|
 | Delivery/service to customer| out of 2.5 || 8 |
@@ -46,6 +46,8 @@
 | Total out of 30||  | 23.5 |
 ||| 4 above star out of 5 (each star is of 6 points) |
 ||| Comment : Good service should be 3.5 star or higher than that|
+||||
+||||
 | Bad service  |
 | Delivery/service to customer | out of 2.5|  | 3|
 | - Desired service is provided | 1 | - product/service is provided that is<br>desired by the customer without any<br>problem = 2.5 points|
