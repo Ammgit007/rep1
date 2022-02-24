@@ -2,7 +2,7 @@
 |Sno.| reason|commands |
 |--|--|--|
 |1| update apt|sudo apt-get update|
-|2|intstall packages|sudo apt-get install \ca-certificates \curl \gnupg \lsb-release|
+|2|install packages|sudo apt-get install \ca-certificates \curl \gnupg \lsb-release|
 |3|add docker key|curl -fsSL https://download.docker.com/linux/ubuntu/gpg | 
 |4||sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg|
 |5|set stable repository| echo \"deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \$(lsb_release -cs) stable" |
